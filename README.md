@@ -3,10 +3,11 @@
     <img alt="A Tool to get latet image version of application from ECR" src="https://dev-to-uploads.s3.amazonaws.com/i/aqbkj87wr6mbiuble3zv.png" width="500" />
   </a>
 </p>
-<h2 align="center">
+<h3 align="center">
   <div>A python script to get latet image version of application from ECR.</div>
-  <dive>In some case, developers want to know the latest image version of application such master branch for deploying to staging and product. We can provide to them a tool (slackbot, ChatOps, etc.) to call the script.</div>
-</h2>
+  <div>In some case, developers want to know the latest image version of application such master branch for deploying to staging and product.</div>
+  <div>We can provide to them a tool (slackbot, ChatOps, etc.) to call the script.</div>
+</h3>
 
 
 <h1 align="center">
@@ -73,7 +74,7 @@ app master-12163 pushed at 2020-12-31 10:10:53+07:00
 ### 🚀 **[A practice to use this script](#-A-practice-to-use-this-script)**
 - Using slackbot
 
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/r240froj3r7xgdl86j91.png)
+![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/ieeiwcd980ciz7uaqf8q.png)
 
 
 **Read More**
