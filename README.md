@@ -3,11 +3,9 @@
     <img alt="A Tool to get latet image version of application from ECR" src="https://dev-to-uploads.s3.amazonaws.com/i/aqbkj87wr6mbiuble3zv.png" width="500" />
   </a>
 </p>
-<h3 align="center">
-  <div>A python script to get latet image version of application from ECR.</div>
-  <div>In some case, developers want to know the latest image version of application such master branch for deploying to staging and product.</div>
-  <div>We can provide to them a tool (slackbot, ChatOps, etc.) to call the script.</div>
-</h3>
+### - A python script to get latet image version of application from ECR.
+### - In some case, developers want to know the latest image version of application such master branch for deploying to staging and product.
+### - We can provide to them a tool (slackbot, ChatOps, etc.) to call the script.
 
 
 <h1 align="center">
@@ -17,6 +15,7 @@
 ## What’s In This Document 
 - [Get application code](#-Get-application-code)
 - [Run test](#-Run-test)
+- [A practice to use this script](#-A-practice-to-use-this-script)
 
 
 ### 🚀 **[Get application code](#-Get-application-code)**
