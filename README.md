@@ -3,6 +3,7 @@
     <img alt="A Tool to get latet image version of application from ECR" src="https://dev-to-uploads.s3.amazonaws.com/i/aqbkj87wr6mbiuble3zv.png" width="500" />
   </a>
 </p>
+
 ### - A python script to get latet image version of application from ECR.
 ### - In some case, developers want to know the latest image version of application such master branch for deploying to staging and product.
 ### - We can provide to them a tool (slackbot, ChatOps, etc.) to call the script.
